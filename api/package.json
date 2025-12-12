@@ -1,0 +1,10 @@
+{
+  "name": "oocl-pdf-proxy",
+  "version": "1.0.0",
+  "main": "api/fetchPdf.js",
+  "type": "module",
+  "dependencies": {
+    "@sparticuz/chromium": "^110.0.0",
+    "puppeteer-core": "^20.0.0"
+  }
+}
